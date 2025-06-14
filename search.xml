@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>page</title>
-      <link href="/2025/06/08/page/"/>
-      <url>/2025/06/08/page/</url>
+      <title>测试用</title>
+      <link href="/posts/2667/"/>
+      <url>/posts/2667/</url>
       
-        <content type="html"><![CDATA[<p>测试</p>]]></content>
+        <content type="html"><![CDATA[<p>测试<br><a href="https://blog.xiowo.net/">https://blog.xiowo.net/</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
       
     </entry>
     
