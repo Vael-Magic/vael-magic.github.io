@@ -808,7 +808,7 @@
             background-color: var(--bg-color);
             min-height: 100vh;
             -webkit-font-smoothing: antialiased;
-            background-image: url('https://bu.dusays.com/2025/06/11/68497f6e3ccb0.webp');
+            background-image: url('https://bu.dusays.com/2025/06/15/684ddd2726b50.webp');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
@@ -973,16 +973,16 @@
               <div class="header-avatar">
                 <!-- 头像占位 -->
                 <svg width="48" height="48" viewBox="0 0 24 24">
-                  <circle cx="12" cy="12" r="10" fill="#4f46e5" />
+                  <circle cx="12" cy="12" r="10" fill="/svg/rss-avatar.svg" />
                 </svg>
               </div>
               <div>
-                <h1 class="header-title">沫塔尔猫の订阅源</h1>
+                <h1 class="header-title">Roxy_Magicの咖啡馆</h1>
               </div>
             </div>
             
             <div class="header-description-cn">
-              Mo的记事簿，提供建站教程、编程实战笔记、生活点滴，个人经验，融合技术开发与人文思考，定期更新深度指南与创意灵感，给大家提供更多帮助。
+              Roxy_Magicの咖啡馆，提供建站教程、学习笔记分享、生活点滴，个人经验，融合技术开发与人文思考，定期更新深度指南与创意灵感，给大家提供更多帮助。
             </div>
             <div class="header-description-en">
               MortalCat’s Blog, Sharing tutorials, coding notes, life moments, personal experiences, blending tech and humanities, with regularly updated guides and creative inspiration.
@@ -1034,9 +1034,10 @@
           
           <div class="footer">
             <div class="footer-line">
-              <span>·</span>
-              <span>©</span>
-              <span>由 RSSHub 生成</span>
+              <span>© 2025</span>
+              <span>
+                <a href="https://blog.230721.xyz." target="_blank">Roxy_Magicの咖啡馆</a>
+              </span>
             </div>
           </div>
         </div>
