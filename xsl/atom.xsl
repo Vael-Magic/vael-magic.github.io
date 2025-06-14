@@ -971,9 +971,9 @@
           <div class="header">
             <div class="header-top">
               <div class="header-avatar">
-                <!-- 头像占位 -->
-                <svg width="48" height="48" viewBox="0 0 24 24">
-                  <circle cx="12" cy="12" r="10" fill="/svg/rss-avatar.svg" />
+                <!-- 使用本地SVG头像 -->
+                <svg width="48" height="48" viewBox="0 0 48 48">
+                  <image href="/svg/rss-avatar.svg" width="48" height="48" preserveAspectRatio="xMidYMid meet" />
                 </svg>
               </div>
               <div>
