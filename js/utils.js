@@ -1103,10 +1103,10 @@ const anzhiyu = {
     input.setSelectionRange(-1, -1);
   },
 
-  // 跳转开往
+  // 跳转异次元之旅-跃迁
   totraveling: function () {
     anzhiyu.snackbarShow(
-      "即将跳转到「开往」项目的成员博客，不保证跳转网站的安全性和可用性",
+      "即将跳转到「异次元之旅-跃迁」项目的成员博客，不保证跳转网站的安全性和可用性",
       element => {
         element.style.opacity = 0;
         travellingsTimer && clearTimeout(travellingsTimer);
@@ -1115,7 +1115,7 @@ const anzhiyu = {
       "取消"
     );
     travellingsTimer = setTimeout(function () {
-      window.open("https://www.travellings.cn/go.html", "_blank");
+      window.open("https://travel.moe/go.html?travel=on", "_blank");
     }, "5000");
   },
 
